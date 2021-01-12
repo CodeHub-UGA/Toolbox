@@ -15,3 +15,7 @@ All in all, git is a tool that every programmer must be comfortable using.
 [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) - Crash Course Video (1hr) </br>
 [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Tutorial </br>
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT Course: A free course meant to go over many important CS tools that classes often gloss over.
+
+
+# Other resources
+[Cloning submodules recursively](https://stackoverflow.com/questions/3796927/how-to-git-clone-including-submodules)
